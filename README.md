@@ -1,0 +1,2 @@
+# magang_real_cough_detector_1
+Pengembangan untuk cough_detector_1
